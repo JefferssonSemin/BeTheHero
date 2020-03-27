@@ -40,9 +40,8 @@ Node.js
 Clone o projeto e instale as dependências:
 
 ```
-git clone https://github.com/JefferssonSemin/beTheHero.git
-cd be-the-hero/
-cd backEnd/
+git clone https://github.com/JefferssonSemin/BeTheHero.git
+cd BeTheHero/
 npm install
 ```
 
